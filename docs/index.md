@@ -35,3 +35,5 @@
 ほげ[ふが](https://github.com/)ぴよ
 
 huga[ふが](./huga/huga.md)huga
+
+![ほげ](sshh_corner_left.jpg)
